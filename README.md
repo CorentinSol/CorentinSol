@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorentinSol. I'm actually a student in Computer Science 
 - 👀 I’m interested in Computer Science, Music (especially jazz(s)), Photography and Sports
-- 🌱 I’m currently learning Kotlin, Jetpack Compose and Java
+- 🌱 I’m currently learning Java and Android Development with Kotlin and Jetpack Compose
 
 
 <!---
